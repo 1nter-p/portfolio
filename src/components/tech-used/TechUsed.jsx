@@ -41,6 +41,14 @@ export default function TechUsed() {
           alt="React"
           width="90"
         />
+
+        <img src="https://cdn.svgporn.com/logos/go.svg" alt="Go" width="90" />
+
+        <img
+          src="https://cdn.svgporn.com/logos/redis.svg"
+          alt="Redis"
+          width="90"
+        />
       </div>
     </div>
   );
