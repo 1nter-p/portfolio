@@ -1,0 +1,22 @@
+.profile {
+    width: 100vw;
+    height: clamp(40vh, 10rem, 20rem);
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    display: flex;
+    gap: 1.5rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border-bottom: 1px solid #ffffff20;
+}
+
+.avatar {
+    width: 15vh;
+    height: 15vh;
+
+    border-radius: 50%;
+}

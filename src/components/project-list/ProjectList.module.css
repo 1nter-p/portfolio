@@ -1,0 +1,13 @@
+.projectList {
+    padding: 6vh;
+}
+
+.label {
+    margin-bottom: 2rem;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vh;
+}

@@ -1,0 +1,13 @@
+.techUsed {
+    padding: 6vh;
+}
+
+.label {
+    margin-bottom: 2rem;
+}
+
+.tech {
+    display: flex;
+    gap: 4rem;
+    flex-wrap: wrap;
+}

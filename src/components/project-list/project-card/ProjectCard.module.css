@@ -1,0 +1,31 @@
+.projectCard {
+    width: 25rem;
+
+    border: 1px solid #ffffff20;
+    border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    padding: 1.5rem;
+
+    cursor: pointer;
+
+    transition-duration: 200ms;
+}
+
+.projectCard:hover {
+    border: 1px solid #ffffff30;
+}
+
+@media (max-width: 768px) {
+    .projectCard {
+        width: 100%;
+    }
+}
+
+.link {
+    margin-top: auto;
+    text-decoration: none;
+}
