@@ -7,42 +7,36 @@ export default function TechUsed() {
 
       <div className={styles.tech}>
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/html-5.svg"
           alt="HTML5"
           width="90"
         />
 
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/css-3.svg"
           alt="CSS3"
           width="90"
         />
 
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/javascript.svg"
           alt="JavaScript"
           width="90"
         />
 
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/typescript.svg"
           alt="TypeScript"
           width="90"
         />
 
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/python.svg"
           alt="Python"
           width="90"
         />
 
         <img
-          className={styles.techItem}
           src="https://cdn.svgporn.com/logos/react.svg"
           alt="React"
           width="90"
